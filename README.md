@@ -145,5 +145,3 @@ discuss the future of AI-driven business intelligence
   
 \*Built with ❤️ for the future of intelligent automation\*  
   
-\[\![Follow\](https://img.shields.io/github/followers/btmmatty?style=social)\](https://github.com/btmmatty)  
-\[\![Star\](https://img.shields.io/github/stars/btmmatty/daftpunks?style=social)\](https://github.com/btmmatty/daftpunks)  
